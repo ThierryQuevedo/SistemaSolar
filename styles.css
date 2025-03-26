@@ -1,15 +1,26 @@
 body{
     background-color: rgb(0, 0, 0);
 }
+.titulo_sec{
+    color: rgb(79, 3, 96);
+    text-shadow: 0px 0px 3px rgb(72, 1, 90);
+    
+}
+p{
+    color: white;
+    text-align: center;
+   
+}
+li{
+    color: white;
+    font-size: 19px;
+   
+}
 .titulo_princ{
     text-align: center;
     font-size: 42px;
     color: rgb(64, 0, 80);
     text-shadow: 0px 0px 3px rgb(86, 42, 95);
-}
-p{
-    color: white;
-    text-align: center;
 }
 .img_ss{
     margin-left: auto;
@@ -46,17 +57,22 @@ p{
     width: auto;
     height: 85%;
 }
-.sol_css{
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 40%;
-    height: auto;
-    display: block;
-    border-radius: 20px;
-}
+
 .titulo_sol{
     text-align: center;
     font-size: 42px;
     color: rgb(255, 255, 255);
     text-shadow: 0px 0px 3px rgb(86, 42, 95);
+}
+.img_princ{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    align-self: center;
+    width: 40%;
+    height: auto;
+}
+.dest{
+    font-size: 22px;
+    font-weight: bold;
 }
