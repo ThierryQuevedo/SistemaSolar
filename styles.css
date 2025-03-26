@@ -54,9 +54,27 @@ p{
     display: block;
     border-radius: 20px;
 }
-.titulo_sol{
-    text-align: center;
-    font-size: 42px;
-    color: rgb(255, 255, 255);
-    text-shadow: 0px 0px 3px rgb(86, 42, 95);
+.mercurio_css{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%;
+    height: auto;
+    display: block;
+    border-radius: 20px;
+}
+.venus_css{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%;
+    height: auto;
+    display: block;
+    border-radius: 20px;
+}
+.terra_css{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%;
+    height: auto;
+    display: block;
+    border-radius: 20px;
 }
